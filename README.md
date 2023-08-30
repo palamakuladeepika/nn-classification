@@ -188,20 +188,21 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information :
 
-![image](https://github.com/Pavan-Gv/nn-classification/assets/94827772/4baecbeb-fa80-45ad-9b3c-9ddc0d5c6a26)
+<img width="832" alt="image" src="https://github.com/palamakuladeepika/nn-classification/assets/94154679/3c367349-1845-4de5-87f3-9cc369887745">
 
 ## OUTPUT :
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/Pavan-Gv/nn-classification/assets/94827772/c38f064e-d3f2-4d32-a78d-2737ddc343fe)
+
+<img width="358" alt="image" src="https://github.com/palamakuladeepika/nn-classification/assets/94154679/67b1a104-a417-4558-a0b2-c9024931e466">
 
 ### Classification Report
 
-![image](https://github.com/Pavan-Gv/nn-classification/assets/94827772/2fd58df7-d638-4906-9e5a-83e00caaa736)
+<img width="292" alt="image" src="https://github.com/palamakuladeepika/nn-classification/assets/94154679/454aad0f-6e63-471f-ae24-747bdef7f2ee">
 
 ### Confusion Matrix
 
-![image](https://github.com/Pavan-Gv/nn-classification/assets/94827772/ed42b6e1-9b36-4973-a246-ff6510e62071)
+<img width="304" alt="image" src="https://github.com/palamakuladeepika/nn-classification/assets/94154679/c773d0b3-f7e7-4896-aef8-b7e60f17584f">
 
 
 ### New Sample Data Prediction
