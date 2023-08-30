@@ -207,7 +207,8 @@ print(le.inverse_transform(x_single_prediction))
 
 ### New Sample Data Prediction
 
-![image](https://github.com/Pavan-Gv/nn-classification/assets/94827772/a7e66ade-0da3-48e8-a67d-9b5a0f1c9ca2)
+<img width="385" alt="image" src="https://github.com/palamakuladeepika/nn-classification/assets/94154679/7f7944a9-49e1-4941-8d27-176d5c6d78d3">
+
 
 ## RESULT :
 
