@@ -35,7 +35,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## PROGRAM
 ```
-Developed by: PAlamakula Deepika
+Developed by: Palamakula Deepika
 Registrarion Number: 212221240035
 ```
 ### Importing the require packages:
